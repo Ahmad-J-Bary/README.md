@@ -9,17 +9,6 @@
 
 ---
 
-<!-- Floating Navigation TOC -->
-<div align="center" style="position: sticky; top: 10px; z-index: 100; background: #f8f9fa; padding: 10px; border-radius: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); margin-bottom: 20px;">
-<strong>📋 Quick Navigation:</strong><br>
-[✨ Features](#-features) | 
-[🚀 Getting Started](#-getting-started) | 
-[📁 Structure](#-project-structure) | 
-[⚙️ Config](#-configuration) | 
-[📖 API Docs](#-api-documentation) | 
-[📜 License](#-license)
-</div>
-
 ## 📋 Table of Contents
 - [✨ Features](#-features)
 - [🚀 Getting Started](#-getting-started)
@@ -73,6 +62,7 @@ cp .env.example .env
 # Start development server
 npm run dev
 ```
+<p align="right"><a href="#-table-of-contents">🔝 Back to TOC</a></p>
 
 ## 📁 Project Structure
  ```
@@ -84,6 +74,8 @@ npm run dev
 ├── .env.example       # Example environment variables
 └── README.md          # Project README
  ```
+
+<p align="right"><a href="#-table-of-contents">🔝 Back to TOC</a></p>
 
 ## ⚙️ Configuration
 ### Configure settings in .env file:
@@ -104,6 +96,8 @@ STRIPE_KEY=sk_test_***
 GOOGLE_API_KEY=your_key_here
 ```
 
+<p align="right"><a href="#-table-of-contents">🔝 Back to TOC</a></p>
+
 ## 🧪 Testing
 ### Run test suite with:
 ```bash
@@ -114,6 +108,8 @@ npm test
 - Unit Tests: tests/unit/ ✅
 - Integration Tests: tests/integration/ 🔗
 - E2E Tests: tests/e2e/ 🌐
+
+<p align="right"><a href="#-table-of-contents">🔝 Back to TOC</a></p>
 
 ## 📖 API Documentation
 
@@ -138,6 +134,8 @@ Response Codes:
 - 400 Bad Request: Validation error ⚠️
 - 500 Internal Error: Server error 🔥
 
+<p align="right"><a href="#-table-of-contents">🔝 Back to TOC</a></p>
+
 ## 🌐 Localization
 ### Add new languages in /locales:
 1. Create [lang].json file
@@ -155,6 +153,8 @@ Response Codes:
 supportedLanguages: ['en', 'es', 'fr']
 ```
 
+<p align="right"><a href="#-table-of-contents">🔝 Back to TOC</a></p>
+
 ## 📊 Performance
 ### Optimization Strategies:
 - Caching with Redis ⚡ 
@@ -162,6 +162,8 @@ supportedLanguages: ['en', 'es', 'fr']
 - Gzip compression 📦 
 - Async processing 🔄 
 - CDN for static assets 🌐
+
+<p align="right"><a href="#-table-of-contents">🔝 Back to TOC</a></p>
 
 ## 🤝 Contributing
 1. Fork the repository 🍴
@@ -184,8 +186,12 @@ git push origin feature/amazing-feature
 - Write unit tests for new features ✅
 - Update documentation 📝
 
+<p align="right"><a href="#-table-of-contents">🔝 Back to TOC</a></p>
+
 ## 📜 License
 Distributed under the MIT License. See [LICENSE](https://github.com/yourusername/your-repo/blob/master/LICENSE) for more information.
+
+<p align="right"><a href="#-table-of-contents">🔝 Back to TOC</a></p>
 
 ## 🔗 Additional Resources
 - [Resources](https://URL-Resources)
