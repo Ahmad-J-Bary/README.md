@@ -120,9 +120,9 @@ KEY2=<value>
   ```
 
 - **Response Codes:**
-  - `200 OK`— _Success_ ✅
-  - `400 Bad Request`— _Validation error_ ⚠️
-  - `500 Internal Error`— _Server error_ 🔥
+<span style="display: inline-block; background: #00c853; color: white; padding: 2px 10px; border-radius: 15px; font-size: 0.9rem;">200 OK</span> — Success  
+<span style="display: inline-block; background: #ffab00; color: white; padding: 2px 10px; border-radius: 15px; font-size: 0.9rem;">400 Bad Request</span> — Validation error  
+<span style="display: inline-block; background: #ff1744; color: white; padding: 2px 10px; border-radius: 15px; font-size: 0.9rem;">500 Internal Error</span> — Server error
 
 <div align="center">
   <a href="#-table-of-contents" style="text-decoration: none; border: 1px solid #ddd; border-radius: 5px; padding: 8px 16px; transition: background-color 0.3s;">
