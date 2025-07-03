@@ -189,13 +189,13 @@ git push origin feature/amazing-feature
 <p align="right"><a href="#-table-of-contents">🔝 Back to TOC</a></p>
 
 ## 📜 License
-Distributed under the MIT License. See [LICENSE](https://github.com/yourusername/your-repo/blob/master/LICENSE) for more information.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-<p align="right"><a href="#-table-of-contents">🔝 Back to TOC</a></p>
+Distributed under the MIT License. See <a href="https://github.com/yourusername/your-repo/blob/master/LICENSE" target="_blank" rel="noopener noreferrer">LICENSE</a> for more information.
 
 ## 🔗 Additional Resources
-- [Resources](https://URL-Resources)
-- [Resources](https://URL-Resources)
-- [Resources](https://URL-Resources)
+- <a href="https://example.com/docs" target="_blank" rel="noopener noreferrer">API Reference</a> 📚
+- <a href="https://example.com/roadmap" target="_blank" rel="noopener noreferrer">Project Roadmap</a> 🗺️
+- <a href="https://forum.example.com" target="_blank" rel="noopener noreferrer">Community Forum</a> 💬
 
 <p align="right"><a href="#-table-of-contents">🔝 Back to TOC</a></p>
